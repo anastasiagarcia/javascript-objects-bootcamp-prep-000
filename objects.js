@@ -28,7 +28,7 @@ var playlist ={
 };
 
 function updatePlaylist(playlist, artistName, songTitle){
-  playlist.artistName=["Rihanna","ACDC"];
+  playlist[artistName]=["Rihanna","ACDC"];
   playlist.songTitle=["Birthday Cake", "Thunderstruck"];
   return playlist;
 }
