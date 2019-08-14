@@ -20,10 +20,12 @@
 // // to chaange the value
 // meals.breakfast="cereal";
 
-
-
-
-
-
-
 // //all of the changes above are destructive
+
+
+function updateObjectWithKeyAndValue(obj, key, value) {
+ 
+  return Object.assign( obj, { [key]: value })
+}
+
+
