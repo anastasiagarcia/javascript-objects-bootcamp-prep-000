@@ -22,10 +22,7 @@
 
 // //all of the changes above are destructive
 
-
-function updateObjectWithKeyAndValue(obj, key, value) {
- 
-  return Object.assign( obj, { [key]: value })
+var playlist ={
+  artistName: 
 }
-
 
