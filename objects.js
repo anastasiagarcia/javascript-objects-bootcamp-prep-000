@@ -27,4 +27,7 @@ var playlist ={
   songTitle: "Birthday Cake"
 };
 
-function updatePlaylist
+function updatePlaylist(playlist, artistName,songTitle){
+  playlist.artistName=["Rihanna","ACDC"];
+  playlist.songTitle=["Birthday Cake", ""]
+}
