@@ -23,6 +23,7 @@
 // //all of the changes above are destructive
 
 var playlist ={
-  artistName: 
+  artistName: "Rihanna",
+  songTitle: ""
 }
 
