@@ -23,8 +23,8 @@
 // //all of the changes above are destructive
 
 var playlist ={
-  artistName: "Rihanna",
-  songTitle: "Birthday Cake"
+  Rihanna:"Birthday Cake",
+  ACDC: "Thunderstruck"
 };
 
 function updatePlaylist(Object){
