@@ -24,6 +24,6 @@
 
 var playlist ={
   artistName: "Rihanna",
-  songTitle: ""
+  songTitle: "Birthday Cake"
 }
 
